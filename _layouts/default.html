@@ -49,7 +49,7 @@ ga('send', 'pageview');
 
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.title }}">
     </a>
     <!-- End Logo -->
 
@@ -63,6 +63,14 @@ ga('send', 'pageview');
 
             <ul class="navbar-nav ml-auto">
 
+                <li class="nav-item">
+                <a class="nav-link" href="http://www.pac-iitd.com">Home</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="http://www.iitd.ac.in">IIT Delhi</a>
+                </li>
+
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
@@ -72,23 +80,15 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
+                <a class="nav-link" href="http://www.pac-iitd.com/team.html">Team</a>
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
+                <a class="nav-link" href="http://www.pac-iitd.com/contact.html">Contact Us</a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -111,7 +111,7 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <h1 class="sitetitle">{{ site.title }}</h1>
     <p class="lead">
         {{ site.description }}
     </p>
@@ -126,9 +126,9 @@ ga('send', 'pageview');
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
 ================================================== -->
-<div class="alertbar">
+<!-- <div class="alertbar">
 	<div class="container text-center">
-		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}" height="40px" width="40px"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
             <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
@@ -136,7 +136,7 @@ ga('send', 'pageview');
             </div>
         </form>
 	</div>
-</div>
+</div> -->
 {% endif %}
     
 </div>
@@ -171,11 +171,8 @@ ga('send', 'pageview');
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+            <div class="col-md-12 col-sm-12 text-center text-lg-center">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-            </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
     </div>
