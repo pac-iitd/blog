@@ -4,7 +4,7 @@ title: "PAC Blog"
 description: "A platform for publishing blogs by the physics and astronomy community of IITD."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog
+baseurl: /blog_jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'pac-blog'
 include: ["_pages"]
