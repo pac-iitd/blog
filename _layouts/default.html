@@ -33,7 +33,7 @@ ga('send', 'pageview');
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{layout}} light-theme">
+<body class="{{layout}} dark-theme">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
@@ -43,7 +43,7 @@ ga('send', 'pageview');
 
 <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<nav class="navbar navbar-expand-lg fixed-top mediumnavigation nav-down">
 
     <div class="container pr-0">
 
@@ -54,7 +54,7 @@ ga('send', 'pageview');
     <!-- End Logo -->
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarMediumish">
@@ -96,9 +96,10 @@ ga('send', 'pageview');
                 <label class="switch">
                     <i class="fas fa-adjust"></i>
                     <div>
-                      <input type="checkbox" class="dark_mode"/>
+                      <input type="checkbox" class="dark_mode" checked value="1"/>
                       <span class="slider round"></span>
                     </div>
+
                 </label>
 
             </ul>

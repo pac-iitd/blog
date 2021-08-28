@@ -19,18 +19,18 @@
     --postBg: var(--white);
     --fontColor: var(--black);
     --fontColorBorder: rgba(2, 2, 2, 0.2);
-    --fontColorLight: rgba(2, 2, 2, 0.6);
-    --rotation: 180deg;
+    --fontColorLight: rgba(2, 2, 2, 0.5);
+    --rotation: 0deg;
 }
   
 .dark-theme {
-    --navBg: var(--gray);
+    --navBg: var(--richBlackForeground);
     --mainBg: var(--richBlackForeground);
     --postBg: var(--richBlackForeground);
     --fontColor: var(--white);
     --fontColorBorder: rgba(150, 150, 150, 1);
     --fontColorLight: rgba(255, 255, 255, 0.6);
-    --rotation: 0deg;
+    --rotation: 180deg;
     background-color: var(--mainBg);
   }
 
@@ -93,9 +93,19 @@ input:checked + .slider {
 }
 .navbar{
     background-color: var(--navBg) !important;
-    border-bottom-style: solid;
+    color: var(--fontColor) !important;
+    /* border-bottom-style: solid;
     border-width: 1px;
-    border-color: var(--fontColorBorder);
+    border-color: var(--fontColorBorder); */
+}
+.navbar a{
+    color: var(--fontColor) !important;
+}
+.navbar a:hover{
+    color: var(--fontColorLight) !important;
+}
+.navbar-toggler-icon{
+    color: var(--fontColor) !important;
 }
 .card{
     background-color: var(--postBg);
@@ -114,12 +124,12 @@ input:checked + .slider {
     padding: 1rem 0rem;
 }
 
-a {
+.article-post a {
     color: #00ab6b;
     transition: all 0.2s;
 }
 
-a:hover {
+.article-post a:hover {
     color: #038252;
     text-decoration: none;
 }
@@ -206,7 +216,7 @@ section.recent-posts {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
-        color: var(--fontColor);
+        color: var(--fontColor) !important;
     }
     .navbar-expand-lg .navbar-nav .nav-link :hover {
         color: var(--fontColorLight) !important;
@@ -413,7 +423,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 50px;
     margin-right: 5px;
 }
 
@@ -429,6 +439,10 @@ span.post-read-more a:hover {
 }
 .postcard_title{
     color: var(--fontColor) !important;
+}
+.postcard_title :hover{
+    color: var(--fontColorLight) !important;
+    font-size: 40px;
 }
 .mainheading p.lead {
     color: var(--fontColor);

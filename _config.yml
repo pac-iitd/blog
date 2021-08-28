@@ -12,11 +12,11 @@ permalink: /:title/
 
 # Authors
 authors:
-  pac:
-    name: PAC
-    display_name: PAC
-    avatar: 'assets/images/logo.png'
-    description: "An awesome club :) "
+  anonymous:
+    name: Anonymous
+    display_name: Anonymous
+    avatar: 'assets/images/authors/anonymous.png'
+    description: "An awesome writer, interested in Physics and Astronomy."
 
 # Plugins
 plugins:
