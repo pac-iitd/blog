@@ -18,6 +18,13 @@ authors:
     avatar: 'assets/images/authors/anonymous.png'
     description: "An awesome writer, interested in Physics and Astronomy."
 
+  mustafa:
+    name: Mustafa Chasmai
+    display_name: Mustafa Chasmai
+    avatar: 'assets/images/authors/Mustafa_Chasmai.jpg'
+    description: "Junior CSE undergrad at IIT Delhi"
+    web: https://www.linkedin.com/in/mustafa-chasmai-181773189/
+
 # Plugins
 plugins:
   - jekyll-paginate
