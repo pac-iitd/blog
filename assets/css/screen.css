@@ -29,7 +29,7 @@
     --postBg: var(--richBlackForeground);
     --fontColor: var(--white);
     --fontColorBorder: rgba(150, 150, 150, 1);
-    --fontColorLight: rgba(255, 255, 255, 0.6);
+    --fontColorLight: rgba(255, 255, 255, 0.8);
     --rotation: 180deg;
     background-color: var(--mainBg);
   }

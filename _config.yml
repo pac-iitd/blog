@@ -25,6 +25,13 @@ authors:
     description: "Junior CSE undergrad at IIT Delhi"
     web: https://www.linkedin.com/in/mustafa-chasmai-181773189/
 
+  aditya_a:
+    name: Aditya Amba
+    display_name: Aditya Amba
+    avatar: 'assets/images/authors/aditya_amba.jpeg'
+    description: "Sophomore at IIT Delhi"
+    web: https://in.linkedin.com/in/amba-aditya-4a46021bb
+
 # Plugins
 plugins:
   - jekyll-paginate
