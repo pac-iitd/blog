@@ -32,6 +32,12 @@ authors:
     description: "Sophomore at IIT Delhi"
     web: https://in.linkedin.com/in/amba-aditya-4a46021bb
 
+  gurarman:
+    name: Gurarmaan Singh
+    display_name: Gurarmaan Singh
+    avatar: 'assets/images/authors/Gurarmaan_Singh.jpg'
+    description: "Sophomore at IIT Delhi"
+
 # Plugins
 plugins:
   - jekyll-paginate
