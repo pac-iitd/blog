@@ -38,6 +38,12 @@ authors:
     avatar: 'assets/images/authors/Gurarmaan_Singh.jpg'
     description: "Sophomore at IIT Delhi"
 
+  ankit:
+    name: Ankit Meena
+    display_name: Ankit Meena
+    avatar: 'assets/images/authors/Ankit_Meena.jpeg'
+    description: "Sophomore at IIT Delhi"
+
 # Plugins
 plugins:
   - jekyll-paginate
