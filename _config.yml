@@ -22,7 +22,7 @@ authors:
     name: Mustafa Chasmai
     display_name: Mustafa Chasmai
     avatar: 'assets/images/authors/Mustafa_Chasmai.jpg'
-    description: "Junior CSE undergrad at IIT Delhi"
+    description: "Junior at IIT Delhi"
     web: https://www.linkedin.com/in/mustafa-chasmai-181773189/
 
   aditya_a:
@@ -42,7 +42,7 @@ authors:
     name: Ankit Meena
     display_name: Ankit Meena
     avatar: 'assets/images/authors/Ankit_Meena.jpeg'
-    description: "Sophomore at IIT Delhi"
+    description: "Junior at IIT Delhi"
 
 # Plugins
 plugins:
