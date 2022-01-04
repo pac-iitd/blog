@@ -44,6 +44,12 @@ authors:
     avatar: 'assets/images/authors/Ankit_Meena.jpeg'
     description: "Junior at IIT Delhi"
 
+  akash:
+    name: Akash Dhingra
+    display_name: Akash Dhingra
+    avatar: 'assets/images/authors/Akash_Dhingra.jpeg'
+    description: "Junior at IIT Delhi"
+
 # Plugins
 plugins:
   - jekyll-paginate
