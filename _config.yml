@@ -50,6 +50,12 @@ authors:
     avatar: 'assets/images/authors/Akash_Dhingra.jpeg'
     description: "Junior at IIT Delhi"
 
+  aaghaz:
+    name: Aaghaz Mahajan
+    display_name: Aaghaz Mahajan
+    avatar: 'assets/images/authors/Aaghaz_Mahajan.jpg'
+    description: "Sophomore at IIT Delhi"
+
 # Plugins
 plugins:
   - jekyll-paginate
