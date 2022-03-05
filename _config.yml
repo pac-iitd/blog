@@ -56,6 +56,18 @@ authors:
     avatar: 'assets/images/authors/Aaghaz_Mahajan.jpg'
     description: "Sophomore at IIT Delhi"
 
+  hriday:
+    name: Hriday Sabharwal
+    display_name: Hriday Sabharwal
+    avatar: 'assets/images/authors/hriday.jpeg'
+    description: "Sophomore at IIT Delhi"
+
+  rajeev:
+    name: Rajeev Ranjan Mishra
+    display_name: Rajeev Ranjan Mishra
+    # avatar: 'assets/images/authors/Aaghaz_Mahajan.jpg'
+    description: "Sophomore at IIT Delhi"
+
 # Plugins
 plugins:
   - jekyll-paginate
