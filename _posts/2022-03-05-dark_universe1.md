@@ -82,3 +82,22 @@ Let us say that one fine day, a successful theory of dark matter can be cooked u
 However, there may be an even bigger implication than near-infinite fuel. We know that dark matter can interact with normal matter through gravity. Manipulating the density of dark matter could potentially mean manipulating its gravity, and manipulating gravity would be - to put it simply - the biggest breakthrough in physics in a very long time. To do it justice, the topic would require its very own article! But let’s not go down that rabbit hole. 
 
 Now keep in mind, these applications are just related to the effects we have seen so far. Who knows what more can be brought to light through the dark universe?
+
+
+
+## References
+
+1. What is  Dark Matter? [[Earthsky](https://earthsky.org/astronomy-essentials/definition-what-is-dark-matter/)]
+
+2. Dark Matter [[Britannica](https://www.britannica.com/science/dark-matter)]
+
+
+3. Dark Matter [[Wikipedia](https://en.m.wikipedia.org/wiki/Dark_matter)] 
+
+4. Super Symmetry [[CERN](https://home.cern/science/physics/supersymmetry)]  
+
+5. Super Symmetry [[Wikipedia](https://en.m.wikipedia.org/wiki/Supersymmetry)]  
+
+6. WIMPs [[Wikipedia](https://en.m.wikipedia.org/wiki/Weakly_interacting_massive_particles)]  
+
+
