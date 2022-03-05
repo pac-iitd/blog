@@ -25,7 +25,7 @@ In 1939, American astronomer Horace W. Babcock studied the andromeda nebula, whi
 This observation was proof that the mass of the galaxy within the orbit of a star increases linearly as we go away from the center. Yet, no light is seen from this extra mass (hence the increase in mass/luminosity ratio). So what’s going on?
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/dark1.gif" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/dark1.gif" />
  
     Predicted galactic rotation | Observed galactic rotation
 </p>
@@ -36,7 +36,7 @@ Vera Rubin, following Zwicky, postulated this missing structure as dark matter. 
 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/dark_2.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/dark_2.png" />
  
     An example of gravitational lensing. The galaxies seem to form “circles” around the center of the image, suggesting the presence of gravity in that region of space. However, there is no visible mass that could produce lensing on such a large scale, suggesting a presence of dark matter in that chunk of space
 
@@ -57,7 +57,7 @@ Another theory that could prove the existence of a particle is supersymmetry. In
 Astronomers believe that WIMPs show the property of self-annihilation when colliding with each other, releasing a large amount of energy in the form of gamma rays, neutrinos, protons, electrons, etc. As a consequence, they have searched the vast vacuums of space hoping to detect traces of events that could have been produced by these collisions, but to no avail so far.
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/dark_3.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/dark_3.png" />
 </p>
 
 
@@ -65,7 +65,7 @@ Experiments in the Large Hadron Collider at CERN constantly try to discover new 
 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/dark_4.png" width="400"/>
+  <img src="{{ site.baseurl }}/assets/images/dark_4.png" />
 
   The possible WIMP candidates include - Neutralinos and 3 Sneutrinos
 </p>
