@@ -26,8 +26,7 @@ This observation was proof that the mass of the galaxy within the orbit of a sta
 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/dark1.gif" />
- 
-    Predicted galactic rotation | Observed galactic rotation
+    <br>Predicted galactic rotation | Observed galactic rotation
 </p>
 
 
@@ -38,7 +37,7 @@ Vera Rubin, following Zwicky, postulated this missing structure as dark matter. 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/dark_2.png" />
  
-    An example of gravitational lensing. The galaxies seem to form “circles” around the center of the image, suggesting the presence of gravity in that region of space. However, there is no visible mass that could produce lensing on such a large scale, suggesting a presence of dark matter in that chunk of space
+    <br>An example of gravitational lensing. The galaxies seem to form “circles” around the center of the image, suggesting the presence of gravity in that region of space. However, there is no visible mass that could produce lensing on such a large scale, suggesting a presence of dark matter in that chunk of space
 
 </p>
 
@@ -67,7 +66,7 @@ Experiments in the Large Hadron Collider at CERN constantly try to discover new 
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/dark_4.png" />
 
-  The possible WIMP candidates include - Neutralinos and 3 Sneutrinos
+  <br>The possible WIMP candidates include - Neutralinos and 3 Sneutrinos
 </p>
 
 

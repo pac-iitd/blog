@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Dark Universe - Part 1: Dark energy"
+title:  "The Dark Universe - Part 2: Dark energy"
 author: rajeev
 categories: [ astronomy, dark-universe ]
 image: assets/images/posts_main/dark_energy.gif
@@ -33,7 +33,7 @@ In 1979, Alan Guth and Alexei Starobinsky proposed the model of inflation in whi
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/dark2_1.png" />
  
-   The multiverse theory suggests there are more universes than the one we know
+   <br>The multiverse theory suggests there are more universes than the one we know
 
 </p>
 
@@ -45,7 +45,7 @@ Currently, we have discovered that subatomic particles like protons and neutrons
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/dark2_2.gif" />
  
-   The hidden extra dimensions as predicted by string theory
+   <br>The hidden extra dimensions as predicted by string theory
 
 </p>
 
@@ -62,7 +62,7 @@ Since the beginning of the Universe, there has been a war going on over the cont
 <p align="center">
   <img src="{{ site.baseurl }}/assets/images/dark2_2.png" />
  
-   A simulation of the dark matter distribution across our cosmos
+   <br>A simulation of the dark matter distribution across our cosmos
 
 </p>
 
